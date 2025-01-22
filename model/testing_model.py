@@ -26,7 +26,7 @@ def image(model_path,image_path):
 
         
 if __name__ == "__main__":
-    model_path='model/healmet_detaction.pt'
+    model_path='model/ppe.pt'
     video_path=0
     image_path='model/test_images/00404.jpg'
     if image_path!='':
