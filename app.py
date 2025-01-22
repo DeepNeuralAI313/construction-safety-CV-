@@ -312,5 +312,5 @@ def footer():
 # Run the app
 if __name__ == "__main__":
     nev()
-    main('model\\ppe.pt')
+    main('..\\model\\ppe.pt')
     footer()
